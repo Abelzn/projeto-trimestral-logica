@@ -1,4 +1,4 @@
 # projeto-trimestral-logica
-relogio digital
 calculadra simples
+relogio digital
 tabuada
